@@ -7,11 +7,10 @@ https://jkampa3.github.io/Homework_7_Basic/
 Utilize Firebase to take input data and populate table on screen for a ‘Train Schedule’
 
 ## Tools Used: 
-HTML, CSS, Bootstrap
-Google Firebase
-JavaScript / jQuery
-JavaScript Libraries:
- 	Moment.js
+* HTML, CSS, Bootstrap
+* Google Firebase
+* JavaScript / jQuery
+* JS Library: Moment.js
   
 ## Screenshots: 
 Main Load Page:
